@@ -1,50 +1,79 @@
 ## Hi there 👋
 
-# Александр Белов
-
+# Alexander Belov
+eng edition
 > **Open to work!**  
-> Активно ищу позицию разработчика (Java / Kotlin).  
-> Также владею C++ и Unity.  
-> Студент 2-го курса РТУ МИРЭА.
+> Actively looking for a developer role (Python / JavaScript).  
+> Also skilled in C++ and C#.  
+> 2nd-year student at RTU MIREA.
 
 ---
 
+### 🛠️ My Tech Stack
+| Languages / Technologies | Level          |
+|---------------------------|----------------|
+| Python                    | Advanced       |
+| JavaScript                | Intermediate   |
+| C++                       | Beginner       |
+| C#                        | Beginner       |
+
+---
+
+### 💼 Experience
+- **ANO DO «NOC MSTU named after N.E. Bauman»** — programming instructor (1 year)
+
+---
+
+### 🎓 Education
+- RTU MIREA, 2nd year, major in Fullstack Development
+- Additional courses: mobile development in Kotlin, server applications in Java
+
+---
+
+### 📫 Contacts
+- Telegram: https://t.me/LedokolS9
+
+---
+
+### ⚡ Fun facts about me
+- I'm a Dungeon Master for tabletop RPGs (D&D)
+- I love complex strategies and RPGs (Dota 2, Baldur's Gate 3)
+- I'm constantly learning new things — both at work and beyond
+
+
+---
+
+
+# Александр Белов
+ru edition
+> **Open to work!**  
+> Активно ищу позицию разработчика (Python / JavaScript).  
+> Также владею C++ и C#.  
+> Студент 2-го курса РТУ МИРЭА.
+---
 ### 🛠️ Мой стек
 | Языки / технологии | Уровень       |
 |---------------------|---------------|
-| Java                | Продвинутый   |
-| Kotlin              | Средний       |
+| Python              | Продвинутый   |
+| JavaScript          | Средний       |
 | C++                 | Начальный     |
-| Unity               | Базовый       |
-
+| C#                  | Начальный     |
 ---
-
 ### 💼 Опыт
-- **АНО ДО «НОЦ МГТУ им. Н.Э. Баумана»** — разработка (год работы)
-- **Android Bootcamp 2026** — участие в интенсивной программе
-
+- **АНО ДО «НОЦ МГТУ им. Н.Э. Баумана»** — преподаватель программирования (год работы)
 ---
-
 ### 🎓 Образование
 - РТУ МИРЭА, 2 курс, направление «Фулстек разработка»
 - Дополнительные курсы: мобильная разработка на Kotlin, серверные приложения на Java
-
 ---
-
-### 🧩 Проекты (скоро появятся)
-- [Название проекта] — краткое описание
-- [Название проекта] — краткое описание
-
----
-
 ### 📫 Контакты
-- Telegram: [ссылка]
-- Email: [почта]
-- Резюме: [ссылка на PDF / Google Docs]
-
+- Telegram: https://t.me/LedokolS9
 ---
-
 ### ⚡ Факты обо мне
-- Веду настольные ролевые игры (D&D, мастер)
+- Веду настольные ролевые игры (D&D мастер)
 - Люблю сложные стратегии и RPG (Dota 2, Baldur's Gate 3)
 - Постоянно учусь новому — в работе и вне её
+
+
+
+
