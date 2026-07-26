@@ -5,7 +5,7 @@ eng edition
 > **Open to work!**  
 > Actively looking for a developer role (Python / JavaScript).  
 > Also skilled in C++ and C#.  
-> 2nd-year student at RTU MIREA.
+> 3rd-year student at RTU MIREA.
 
 ---
 
@@ -25,7 +25,7 @@ eng edition
 ---
 
 ### 🎓 Education
-- RTU MIREA, 2nd year, major in Fullstack Development
+- RTU MIREA, 3rd year, major in Fullstack Development
 - Additional courses: mobile development in Kotlin, server applications in Java
 
 ---
@@ -49,7 +49,7 @@ ru edition
 > **Open to work!**  
 > Активно ищу позицию разработчика (Python / JavaScript).  
 > Также владею C++ и C#.  
-> Студент 2-го курса РТУ МИРЭА.
+> Студент 3-го курса РТУ МИРЭА.
 ---
 ### 🛠️ Мой стек
 | Языки / технологии | Уровень       |
@@ -63,7 +63,7 @@ ru edition
 - **АНО ДО «НОЦ МГТУ им. Н.Э. Баумана»** — преподаватель программирования (год работы)
 ---
 ### 🎓 Образование
-- РТУ МИРЭА, 2 курс, направление «Фулстек разработка»
+- РТУ МИРЭА, 3 курс, направление «Фулстек разработка»
 - Дополнительные курсы: мобильная разработка на Kotlin, серверные приложения на Java
 ---
 ### 📫 Контакты
