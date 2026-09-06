@@ -19,7 +19,7 @@
 ---
 
 ### 💼 Experience
-- **ANO DO «NOC MSTU named after N.E. Bauman»** — programming instructor (1 year)
+- **ANO DO «NOC MSTU named after N.E. Bauman»** — programming instructor (2 year)
 
 ---
 
